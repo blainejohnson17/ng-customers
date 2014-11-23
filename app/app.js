@@ -1,5 +1,5 @@
 (function() {
   'use strict';
 
-  angular.module('customersApp', []);
+  angular.module('customersApp', ['ngRoute']);
 })();
